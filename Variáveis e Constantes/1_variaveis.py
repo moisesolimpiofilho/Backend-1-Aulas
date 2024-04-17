@@ -4,6 +4,8 @@ nome = "Moisés"
 idade = 41
 peso = 87
 altura = 1.65
+estudando = True
+maior_idade = False
 
 print(f"Sou {nome}, tenho {idade} anos")
 print(f"Meu peso é {peso} e altura {altura}")
