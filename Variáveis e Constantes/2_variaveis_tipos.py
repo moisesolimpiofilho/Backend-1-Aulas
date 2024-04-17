@@ -4,6 +4,8 @@ nome: str = "Moisés"
 idade: int = 41
 peso: int = 87
 altura: float = 1.65
+estudando: bool = True
+maior_idade: bool = False
 
 print(f"Sou {nome}, tenho {idade} anos")
 print(f"Meu peso é {peso} e altura {altura}")
