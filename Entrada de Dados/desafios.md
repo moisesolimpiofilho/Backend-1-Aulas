@@ -1,6 +1,6 @@
-## Desafios para variáveis e constantes
+## Desafios para entrada de dados
 
-Resolva os desafios abaixo sendo que as variáveis devem ser fixas.
+Resolva os desafios abaixo sendo que as variáveis devem ser preenchidas com dados vindo do usuário.
 
 4. Calcular a média aritmética para duas notas do aluno. 
 
