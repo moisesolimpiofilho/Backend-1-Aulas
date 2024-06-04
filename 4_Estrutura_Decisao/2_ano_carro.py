@@ -1,3 +1,7 @@
+"""
+Exemplo de script que faz a verificação do ano do veículo
+"""
+
 from datetime import date
 
 hoje = date.today()

@@ -1,3 +1,7 @@
+"""
+Exemplo de estrutura de decisão simples comparando números
+"""
+
 n1 = int(input("Digite um número inteiro: "))
 n2 = int(input("Digite outro número inteiro: "))
 
