@@ -30,7 +30,7 @@ maior_idade: bool = False
 # Constantes
 - Constantes no python são identificadas pela forma como são declaradas (escritas), por padrão da linguagem utiliza-se letras maiúsculas
 
-## Exemplos
+## Exemplo
 ```
 PI = 3.141516
 ```
